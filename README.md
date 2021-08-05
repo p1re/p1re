@@ -1,9 +1,3 @@
-hi im p1re
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=p1re&show_icons=true&theme=gruvbox)
-
-
-
 <h1 align="center">Hi 👋, I'm p1re</h1>
 <h3 align="center">Im p1re an spanish developer.</h3>
 
